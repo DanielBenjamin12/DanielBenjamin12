@@ -1,6 +1,8 @@
 # 👋 Hola, mi nombre es Daniel Benjamín De Los Santos Reyes  
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
+<img src="https://raw.githubusercontent.com/DanielBenjamin12/DanielBenjamin12/main/banner%20github.png" alt="Banner de Daniel" width="100%" />
+
 ---
 
 ## 💻 Desarrollador Web Full-stack
