@@ -32,36 +32,27 @@ He trabajado en proyectos frontend y backend, incluyendo integraciones de APIs, 
 ---
 ## 🧰 Tech Stack
 
-**Lenguajes & Frameworks**
+## 🚀 Tecnologías que manejo
 
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="26" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="26" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="26" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="26" />
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" alt="NestJS" width="26" />
-</p>
-
-**Bases de Datos & Herramientas**
-
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="26" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="26" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="26" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="26" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="Terminal" width="26" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nestjs,nodejs,postgresql,git,github,vercel,bootstrap" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
 
-<details>
-  <summary>Ver estadísticas</summary>
+##📊 <strong>Estadísticas de GitHub</strong>
+  <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielBenjamin12&show_icons=true&theme=radical" alt="Daniel's GitHub Stats" />
-  
-</details>
+  <p align="center">
+    <img src="https://github-readme-stats-woad-eight-39.vercel.app/api?username=DanielBenjamin12&show_icons=true&theme=tokyonight&hide=stars&count_private=true" alt="Estadísticas de GitHub" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats-woad-eight-39.vercel.app/api/top-langs/?username=DanielBenjamin12&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes más usados" />
+  </p>
+
+
 
 ---
 
